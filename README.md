@@ -1,31 +1,48 @@
 # Decodelabs-Task-1-Muhammad-Nouman
-A Python command-line To-Do List application with file handling for persistent task management.
+📝 A Python command-line To-Do List application with file handling for persistent task management. ✅💾
+<div align="center">
+
 # 📝 DecodeLabs Task 1 — To-Do List Application
 
-A clean and simple **Python command-line To-Do List Application** developed as **Task 1** for my internship at **Decode Labs**.
+### 🐍 A Python Command-Line To-Do List Manager with File Handling
 
-This project focuses on core Python concepts such as **functions, lists, loops, file handling, and exception handling**.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=850&lines=Manage+Your+Daily+Tasks;Store+Tasks+Permanently;View+Saved+Tasks;Simple+and+Efficient+Task+Manager;Built+with+Python" />
+
+</div>
+
+---
+
+## 📌 Project Overview
+
+**To-Do List Application** is a simple and practical Python console application developed as **Task 1** during my **Decode Labs Internship**.
+
+This application allows users to add tasks, store them permanently using file handling, and view previously saved tasks through a clean and user-friendly command-line interface.
 
 ---
 
 ## 🚀 Features
 
-* Add new tasks
-* View saved tasks
-* Save tasks permanently in a text file
-* Load previous tasks automatically
-* Simple menu-driven interface
-* Beginner-friendly and well-structured code
+* ➕ Add new tasks
+* 📂 Store tasks permanently in a text file
+* 📜 View all saved tasks
+* 🔄 Automatically load previous tasks on startup
+* 💾 Persistent task management
+* ⚡ Fast and lightweight console application
+* ⚠️ Handles missing files automatically
+* 🧩 Clean and beginner-friendly code structure
 
 ---
 
 ## 🛠️ Technologies Used
 
-* Python
-* File Handling
-* Lists
-* Functions
-* Exception Handling
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/File%20Handling-4CAF50?style=for-the-badge" />
+<img src="https://img.shields.io/badge/CLI%20App-212121?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Functions-FF9800?style=for-the-badge" />
+
+</div>
 
 ---
 
@@ -85,34 +102,63 @@ Task added successfully!
 
 ---
 
-## 🎯 Learning Outcomes
+## 📋 Example Tasks
 
-Through this project, I practiced:
-
-* Creating a menu-driven Python program
-* Using functions to organize code
-* Storing data using lists
-* Reading and writing text files
-* Handling missing files using exception handling
-* Building a practical console-based application
+```text
+1. Complete Python Assignment
+2. Prepare Presentation
+3. Submit Internship Task
+4. Practice Programming
+```
 
 ---
 
-## 📌 Internship Task
+## 🧠 Concepts Practiced
 
-This project was completed as part of my **Decode Labs Internship** to improve my Python programming fundamentals and hands-on development skills.
+* Python Functions
+* Lists
+* Loops
+* Conditional Statements
+* File Reading
+* File Writing
+* Exception Handling
+* Menu-Driven Programming
+* Data Persistence
+
+---
+
+## 🎯 Internship Task
+
+This project was developed as part of my **Decode Labs Internship Program**.
+
+The goal of this task was to build a practical console-based application that demonstrates fundamental Python concepts including functions, file handling, lists, loops, and exception handling.
 
 ---
 
 ## 👨‍💻 Author
 
-**Muhammad Nouman**
-Computer Science Student | Aspiring Software Engineer
+<div align="center">
 
-Passionate about building practical software projects and improving problem-solving skills through real-world development.
+### Muhammad Nouman
+
+**Computer Science Student | Aspiring Software Engineer | Python & C++ Programmer**
+
+Passionate about building practical applications, solving problems, and continuously improving software development skills.
+
+</div>
 
 ---
 
-## ⭐ Repository
+## 🌐 Repository Link
 
-If you found this project helpful, consider giving it a star!
+```text
+https://github.com/Nouman-Irfan/Decodelabs-Task-1-Muhammad-Nouman.git
+```
+
+---
+
+<div align="center">
+
+### ⭐ If you found this project useful, consider giving it a star!
+
+</div>
