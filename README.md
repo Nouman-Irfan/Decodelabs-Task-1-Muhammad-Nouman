@@ -34,7 +34,7 @@ This project focuses on core Python concepts such as **functions, lists, loops, 
 ```text
 Decodelabs-Task-1-Muhammad-Nouman/
 │
-├── DECODE_LABS___PROJECT_1.py
+├── main.py
 ├── README.md
 └── tasks.txt
 ```
@@ -58,7 +58,7 @@ cd Decodelabs-Task-1-Muhammad-Nouman
 ### 3️⃣ Run the Python File
 
 ```bash
-python DECODE_LABS___PROJECT_1.py
+python main.py
 ```
 
 ---
