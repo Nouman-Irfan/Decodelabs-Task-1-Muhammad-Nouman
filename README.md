@@ -37,6 +37,7 @@ Decodelabs-Task-1-Muhammad-Nouman/
 ├── main.py
 ├── README.md
 ├── LICENSE
+├── Runtime.png
 └── tasks.txt
 ```
 
